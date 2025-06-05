@@ -26,22 +26,3 @@ CSS3 – Custom styling, flexbox/grid layout, media queries for responsiveness
 
 Vanilla JavaScript – DOM manipulation, event handling, cart logic, local storage
 
-# 📸 Screenshots
-
-# 📂 Project Structure
-ecommerce-website/
-│
-├── index.html          # Home page
-├── products.html       # Product listing
-├── product.html        # Individual product details
-├── cart.html           # Shopping cart page
-│
-├── /css
-│   └── style.css       # Main styling
-│
-├── /js
-│   └── script.js       # Cart and interaction logic
-│
-└── /images             # Product and UI images
-
-
