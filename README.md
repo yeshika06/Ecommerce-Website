@@ -1,5 +1,4 @@
-# Ecommerce-Website
-🛒 eCommerce Website
+# 🛒 Ecommerce-Website
 A fully responsive and interactive eCommerce website built using only HTML, CSS, and JavaScript — no frameworks or libraries. This project demonstrates a complete front-end simulation of an online store, focusing on usability, interactivity, and modern web design principles.
 
 # 🌟 Features
